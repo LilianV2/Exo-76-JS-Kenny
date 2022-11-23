@@ -19,3 +19,15 @@
     text-align: center;
     margin-top: 25px;
 }
+
+#counter {
+    background-color: blue;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    left: 300px;
+    bottom: 300px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
